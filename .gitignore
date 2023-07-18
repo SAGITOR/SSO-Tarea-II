@@ -1,0 +1,8 @@
+PSO/Python/env
+SSO/Python/env
+PSO/Python/__pycache__
+SSO/Python/__pycache__
+
+*.class
+*.xlsx
+Tarea_2.pdf
